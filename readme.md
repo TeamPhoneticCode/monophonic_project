@@ -8,6 +8,20 @@ librosa example (naver blog) https://blog.naver.com/gad05195/222045828853
 
 Kakao STT/TTS REST API Documentation https://developers.kakao.com/docs/latest/ko/voice/rest-api
 
+wav Converter https://convertio.co/kr/wav-converter/
+
+Reference from Line Engineering about Python Sound ML https://engineering.linecorp.com/ko/blog/voice-waveform-arbitrary-signal-to-noise-ratio-python/
+
 ## Roadmap
 
-monohonic => pentatonic => polyphonic
+monophonic => pentatonic => polyphonic
+
+## Example
+
+```console
+curl -v -X POST "https://kakaoi-newtone-openapi.kakao.com/v1/recognize"
+-H "Transfer-Encoding: chunked"
+-H "Content-Type: application/octet-stream"
+-H "Authorization: KakaoAK {REST_API_KEY}"
+--data-binary @heykakao.wav
+```
