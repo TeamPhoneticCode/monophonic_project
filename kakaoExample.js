@@ -12,7 +12,7 @@ function callback(error, response, body) {
   }
 }
 
-function ssame(){
+function init(fileName){
   let headers = {
     'Transfer-Encoding': 'chunked',
     'Content-Type': 'application/octet-stream',
@@ -23,11 +23,12 @@ let options = {
     url: 'https://kakaoi-newtone-openapi.kakao.com/v1/recognize',
     method: 'POST',
     headers: headers,
-    body: fs.createReadStream('./sound/countryShower.wav')
+    body: fs.createReadStream(`./sound/${fileName}.wav`)
 };
 
 request(options, callback);
 
 }
 
-ssame()
+const fileName = "countryShower";
+init(fileName);
