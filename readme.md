@@ -4,7 +4,7 @@
 
 Lorem Ipsum Korean Ver. http://guny.kr/stuff/klorem/#/p-view
 
-Kakao STT/TTS REST API Documentation https://developers.kakao.com/docs/latest/ko/voice/rest-api
+Kakao STT/TTS REST API Document https://developers.kakao.com/docs/latest/ko/voice/rest-api
 
 wav Converter https://convertio.co/kr/wav-converter/
 

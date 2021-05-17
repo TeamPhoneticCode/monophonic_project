@@ -5,7 +5,7 @@ const fs = require('fs');
 
 function callback(error, response, body) {
   if (!error && response.statusCode == 200) {
-      console.log(body);
+    console.log(body);
   }
   else{
     console.log(error);
@@ -17,18 +17,18 @@ function init(fileName){
     'Transfer-Encoding': 'chunked',
     'Content-Type': 'application/octet-stream',
     'Authorization': `KakaoAK ${process.env.API_KEY}`
-};
+  };
 
-let options = {
+  let options = {
     url: 'https://kakaoi-newtone-openapi.kakao.com/v1/recognize',
     method: 'POST',
     headers: headers,
     body: fs.createReadStream(`./sound/${fileName}.wav`)
-};
+  };
 
-request(options, callback);
+  request(options, callback);
 
 }
 
-const fileName = "countryMadSound";
+const fileName = "countryShower";
 init(fileName);
