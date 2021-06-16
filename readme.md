@@ -25,3 +25,8 @@ make training data for deep learning voice recoginization(LINE Engineering tech 
 
 target voice recognization example http://mediated-ear.com/
 
+Audio Data Preprocessing 1 https://ahnjg.tistory.com/93
+
+Audio Data Preprocessing 2 https://hyunlee103.tistory.com/35?category=999732
+
+Audio Data Preprocessing 3 https://hyunlee103.tistory.com/36
