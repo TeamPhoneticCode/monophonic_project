@@ -30,3 +30,9 @@ Audio Data Preprocessing 1 https://ahnjg.tistory.com/93
 Audio Data Preprocessing 2 https://hyunlee103.tistory.com/35?category=999732
 
 Audio Data Preprocessing 3 https://hyunlee103.tistory.com/36
+
+Google AudioSet (Traffic) https://research.google.com/audioset/unbalanced_train/traffic_noise_roadway_noise.html
+
+Google Speech Command v0.02 http://download.tensorflow.org/data/speech_commands_v0.02.tar.gz
+
+ML for everyone http://hunkim.github.io/ml/
