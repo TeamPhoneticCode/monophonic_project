@@ -36,3 +36,15 @@ Google AudioSet (Traffic) https://research.google.com/audioset/unbalanced_train/
 Google Speech Command v0.02 http://download.tensorflow.org/data/speech_commands_v0.02.tar.gz
 
 ML for everyone http://hunkim.github.io/ml/
+
+Layers https://underflow101.tistory.com/44
+
+## Problem Ref.
+
+https://github.com/greatscottgadgets/greatfet/issues/251
+
+https://webnautes.tistory.com/1493 (save model not exists...)
+
+https://qengineering.eu/install-tensorflow-2.6-on-raspberry-64-os.html (tensorflow 2.6.0 Install on Raspberry Pi)
+
+https://qengineering.eu/install-tensorflow-2.6-on-raspberry-64-os.html python2, python3 problem
