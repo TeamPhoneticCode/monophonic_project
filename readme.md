@@ -52,3 +52,11 @@ https://qengineering.eu/install-tensorflow-2.6-on-raspberry-64-os.html python2, 
 https://pimylifeup.com/raspberry-pi-swap-file/ Increase Swap Memory
 
 https://dhhwang89.tistory.com/50 keyboard layout for korean
+
+## Quicky Install
+
+vs code on raspberry pi
+```bash
+sudo apt update
+sudo apt install code
+```
