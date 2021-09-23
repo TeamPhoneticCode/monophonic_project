@@ -53,6 +53,8 @@ https://pimylifeup.com/raspberry-pi-swap-file/ Increase Swap Memory
 
 https://dhhwang89.tistory.com/50 keyboard layout for korean
 
+https://pimylifeup.com/raspberrypi-microphone/ raspberry pi mic setting
+
 ## Quicky Install
 
 vs code on raspberry pi
