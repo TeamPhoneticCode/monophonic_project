@@ -48,3 +48,7 @@ https://webnautes.tistory.com/1493 (save model not exists...)
 https://qengineering.eu/install-tensorflow-2.6-on-raspberry-64-os.html (tensorflow 2.6.0 Install on Raspberry Pi)
 
 https://qengineering.eu/install-tensorflow-2.6-on-raspberry-64-os.html python2, python3 problem
+
+https://pimylifeup.com/raspberry-pi-swap-file/ Increase Swap Memory
+
+https://dhhwang89.tistory.com/50 keyboard layout for korean
