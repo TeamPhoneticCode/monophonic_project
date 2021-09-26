@@ -59,6 +59,14 @@ https://dhhwang89.tistory.com/50 keyboard layout for korean
 
 https://pimylifeup.com/raspberrypi-microphone/ raspberry pi mic setting
 
+https://wikidocs.net/21928 pyqt1
+
+https://wikidocs.net/35489 pyqt2
+
+https://ybworld.tistory.com/35?category=929856 pyqt3
+
+typecast
+
 ## Quicky Install
 
 vs code on raspberry pi
