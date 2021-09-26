@@ -41,6 +41,8 @@ Layers https://underflow101.tistory.com/44
 
 About CNN https://halfundecided.medium.com/%EB%94%A5%EB%9F%AC%EB%8B%9D-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-cnn-convolutional-neural-networks-%EC%89%BD%EA%B2%8C-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-836869f88375
 
+About QThreading https://ybworld.tistory.com/39?category=929856
+
 ## Problem Ref.
 
 https://github.com/greatscottgadgets/greatfet/issues/251
